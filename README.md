@@ -1,3 +1,4 @@
+mcp-name: io.sooperset/mcp-atlassian
 # MCP Atlassian
 
 ![PyPI Version](https://img.shields.io/pypi/v/mcp-atlassian)
